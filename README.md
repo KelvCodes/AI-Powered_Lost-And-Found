@@ -43,7 +43,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 ## 📜 Installation 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/smart-neighborhood-watch.git  
+   git clone https://github.com/yourusername/ai-lost-and-found.git  
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
