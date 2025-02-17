@@ -18,7 +18,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
   ---
 ## 🎬 Live Demo 
 
-🔗 **[Try It Now](https://your-github-username.github.io/community-safety-alert/)**  
+🔗 **[Try It Now](https://ai-powered-lost-and-found.netlify.app/)**  
 
 ---
 ## 🛠 Tech Stack 
