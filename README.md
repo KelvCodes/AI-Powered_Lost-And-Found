@@ -38,7 +38,6 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 3. **Get notified** when a match is found. 
 4. **Reunite** lost items with their owners!  
 
-5.
 
    ---
 ## 📜 Installation 
