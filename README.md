@@ -1,4 +1,4 @@
-# 🚨 Smart Neighborhood Watch 🏡
+# 🚨 AI-Powered Lost & Found 🔍
 
 ---
 A **real-time, accessible, and user-friendly** safety alert system for local communities.  
