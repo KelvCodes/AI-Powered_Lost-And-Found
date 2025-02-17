@@ -6,7 +6,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 
 ---
 ## 🌟 Features
-- ✅ **📢 Report an Incident** – Users can submit safety reports with details.
+- ✅ **🔍 AI-Powered Matching** – Automatically matches lost items with found reports using AI.  
 - ✅ **⚠️ Live Alerts** – Real-time display of reported incidents.
 - ✅ **🗺️ Interactive Incident Map** – Displays all incidents on a visual map.
 - ✅ **🔔 Push Notifications** – Sends alerts to nearby users.
