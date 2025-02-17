@@ -1,9 +1,8 @@
 # 🚨 AI-Powered Lost & Found 🔍
 
 ---
-A **real-time, accessible, and user-friendly** safety alert system for local communities.  
-Users can **report incidents**, view a **live incident map**, receive **push notifications**, and **check in as safe** when needed. 
-🚀 **Built with HTML, CSS, and JavaScript** – No backend required!
+A **smart, user-friendly** web app to help you **find lost items** or **report found ones** using AI-powered matching.  
+Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works without a backend! 
 
 ---
 ## 🌟 Features
