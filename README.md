@@ -36,7 +36,8 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 1. **Click "Report Lost Item"** or **"Report Found Item"** and enter the details.  
 2. **Browse listings** to see all reported items.
 3. **Get notified** when a match is found. 
-4. **Get push notifications** for new incidents.  
+4. **Reunite** lost items with their owners!  
+
 5.
 
    ---
