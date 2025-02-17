@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Lost & Found System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>🔍 AI Lost & Found System</h1>
+        <p>Report lost or found items and get AI-powered matches.</p>
+    </header>
+
+    <main>
+        <!-- Side-by-Side Form Layout -->
+        <div class="report-container">
+            <!-- Report Lost Item -->
+            <section id="lost-section">
+                <h2>😢 Report a Lost Item</h2>
+                <input type="text" id="lost-item" placeholder="Item Name">
+                <input type="text" id="lost-location" placeholder="Last Seen Location">
+                <input type="text" id="lost-phone" placeholder="Your Contact Number">
+                <input type="file" id="lost-image" accept="image/*">
+                <textarea id="lost-description" placeholder="Describe the item..."></textarea>
+                <button onclick="reportLostItem()">🚨 Report Lost Item</button>
+            </section>
+
+            <!-- Report Found Item -->
+            <section id="found-section">
+                <h2>😊 Report a Found Item</h2>
+                <input type="text" id="found-item" placeholder="Item Name">
+                <input type="text" id="found-location" placeholder="Where Was It Found?">
+                <input type="text" id="found-phone" placeholder="Your Contact Number">
+                <input type="file" id="found-image" accept="image/*">
+                <textarea id="found-description" placeholder="Describe the item..."></textarea>
+                <button onclick="reportFoundItem()">📢 Report Found Item</button>
+            </section>
+        </div>
+
+        <!-- AI Matching Results -->
+        <section id="matches-section">
+            <h2>🤖 AI Matching Results</h2>
+            <div id="match-list"></div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
