@@ -8,7 +8,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 ## 🌟 Features
 - ✅ **🔍 AI-Powered Matching** – Automatically matches lost items with found reports using AI.  
 - ✅ **📢 Report Lost/Found Items** – Easily submit details about lost or found items.
-- ✅ **🗺️ Interactive Incident Map** – Displays all incidents on a visual map.
+-✅ **📋 View Listings** – Browse all reported lost and found items in one place.
 - ✅ **🔔 Push Notifications** – Sends alerts to nearby users.
 - ✅ **✅ Safety Check-In** – Users can mark themselves as safe.
 - ✅ **📱 Fully Responsive UI** – Works seamlessly on mobile, tablet, and desktop.
