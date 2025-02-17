@@ -12,7 +12,8 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 - ✅ **🔔 Smart Notifications** – Get alerts when a match is found. 
 - **📱 Fully Responsive UI** – Works seamlessly on mobile, tablet, and desktop.
 - ✅ **📱 Fully Responsive UI** – Works seamlessly on mobile, tablet, and desktop.
-- ✅ **💾 Local Storage Support** – Saves incidents locally without requiring a backend.
+- ✅ ✅ **💾 Local Storage Support** – Saves data locally without requiring a backend.  
+
 
   ---
 ## 🎬 Live Demo 
