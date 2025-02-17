@@ -29,7 +29,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend interactivity |
 
 | ![LocalStorage](https://img.shields.io/badge/LocalStorage-0000FF?style=for-the-badge) | Saves incident data locally |
-| ![Push Notifications](https://img.shields.io/badge/Push%20Notifications-FF4500?style=for-the-badge) | Alerts users of new incidents |
+
 
 ---
 ## 🚀 How to Use
