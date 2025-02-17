@@ -10,7 +10,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 - ✅ **📢 Report Lost/Found Items** – Easily submit details about lost or found items.
 -✅ **📋 View Listings** – Browse all reported lost and found items in one place.
 - ✅ **🔔 Smart Notifications** – Get alerts when a match is found. 
-- ✅ **✅ Safety Check-In** – Users can mark themselves as safe.
+- **📱 Fully Responsive UI** – Works seamlessly on mobile, tablet, and desktop.
 - ✅ **📱 Fully Responsive UI** – Works seamlessly on mobile, tablet, and desktop.
 - ✅ **💾 Local Storage Support** – Saves incidents locally without requiring a backend.
 
