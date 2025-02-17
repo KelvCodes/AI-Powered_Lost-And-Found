@@ -1,5 +1,3 @@
-
- 
 # 🚨 Smart Neighborhood Watch 🏡
 
 ---
