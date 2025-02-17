@@ -35,7 +35,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 ## 🚀 How to Use
 1. **Click "Report Lost Item"** or **"Report Found Item"** and enter the details.  
 2. **Browse listings** to see all reported items.
-3. **Check the incident map** for reported locations.  
+3. **Get notified** when a match is found. 
 4. **Get push notifications** for new incidents.  
 5. **Check in as safe** when needed.
 
