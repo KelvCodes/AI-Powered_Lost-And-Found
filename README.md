@@ -53,7 +53,7 @@ Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works wi
 
 ## 🤝 Contributing  
 
-Want to add new features or improve   ? We’d love your help! 💡  
+Want to add new features or improve AI ? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
