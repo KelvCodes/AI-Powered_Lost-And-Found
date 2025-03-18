@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Report Found Item</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">🔍 AI Lost & Found</div>
+        <ul class="nav-links">
+            <li><a href="main.html"><i class="fas fa-home"></i> Home</a></li>
+            <li><a href="lost.html"><i class="fas fa-search-minus"></i> Report Lost</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="side-by-side">
+            <section class="card form-card glowing-card">
+                <h2><i class="fas fa-search-plus"></i> Report Found Item 😊</h2>
+                <form id="found-form">
+                    <input type="text" id="found-item" placeholder="Item Name" required>
+                    <input type="text" id="found-location" placeholder="Found Location" required>
+                    <input type="tel" id="found-phone" placeholder="Your Contact Number" required>
+                    <input type="file" id="found-image" accept="image/*">
+                    <textarea id="found-description" placeholder="Describe the item..."></textarea>
+                    <button type="submit" class="btn-gradient">📢 Report Found</button>
+                </form>
+            </section>
+        </section>
+        <section id="matches-section" class="card glowing-card match-card-container">
+            <h2><i class="fas fa-robot"></i> AI Matches 🤖</h2>
+            <div class="robot-animation">
+                <i class="fas fa-robot animate-run"></i>
+            </div>
+            <div id="match-list"></div>
+        </section>
+    </main>
+
+   
+    <footer class="footer">
+        <p>© 2025 AI Lost & Found | All Rights Reserved</p>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            <a href="https://instagram.com/_.yo.kelvin" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+            <a href="https://github.com/KelvCodes" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+            <a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
