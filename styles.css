@@ -1,11 +1,4 @@
 
-
-/* Hover effect */
-button:hover {
-    background: linear-gradient(135deg, #533483, #0f3460);
-    transform: scale(1.05);
-}
-
 /* 🔍 AI Matching Section */
 #match-list {
     text-align: left;
