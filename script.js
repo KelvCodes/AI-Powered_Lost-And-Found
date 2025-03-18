@@ -1,7 +1,4 @@
-let lostItems = [];
-let foundItems = [];
-
-// Report a Lost Item
+ Report a Lost Item
 function reportLostItem() {
     let name = document.getElementById("lost-item").value.trim();
     let location = document.getElementById("lost-location").value.trim();
