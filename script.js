@@ -1,11 +1,4 @@
-t("❌ Please enter all required details.");
-        return;
-    }
-
-    let imageSrc = "";
-    if (imageInput.files.length > 0) {
-        let reader = new FileReader();
-        reader.onload = function (e) {
+er.onload = function (e) {
             imageSrc = e.target.result;
             lostItems.push({ name, location, phone, description, imageSrc });
             matchLostFoundItems();
