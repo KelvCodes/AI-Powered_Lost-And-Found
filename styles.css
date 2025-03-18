@@ -1,8 +1,4 @@
-
-/* 🏆 Responsive Design */
-@media (max-width: 768px) {
-    .report-container {
-        flex-direction: column;
+olumn;
     }
     section {
         width: 90%;
