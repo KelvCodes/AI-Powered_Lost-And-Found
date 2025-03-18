@@ -1,11 +1,4 @@
-
-/* 🎉 Success Message Styling */
-.success-message {
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: #28a745;
+ #28a745;
     color: white;
     padding: 15px 20px;
     font-size: 18px;
