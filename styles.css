@@ -1,12 +1,4 @@
-
-
-/* 📝 Side-by-Side Form Layout */
-.report-container {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    padding: 20px;
+ padding: 20px;
 }
 
 /* 📦 Report Sections */
