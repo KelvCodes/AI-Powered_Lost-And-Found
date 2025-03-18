@@ -1,9 +1,4 @@
 
-/* Hover effect */
-section:hover {
-    transform: scale(1.03);
-}
-
 /* 📝 Input Fields */
 input, textarea {
     width: 100%;
