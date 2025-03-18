@@ -1,15 +1,4 @@
- Report a Lost Item
-function reportLostItem() {
-    let name = document.getElementById("lost-item").value.trim();
-    let location = document.getElementById("lost-location").value.trim();
-    let phone = document.getElementById("lost-phone").value.trim();
-    let description = document.getElementById("lost-description").value.trim();
-    let imageInput = document.getElementById("lost-image");
-
-    console.log("Lost Item Reported:", { name, location, phone, description });
-
-    if (name === "" || location === "" || phone === "") {
-        alert("❌ Please enter all required details.");
+t("❌ Please enter all required details.");
         return;
     }
 
