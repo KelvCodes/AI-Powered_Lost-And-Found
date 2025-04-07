@@ -1,7 +1,7 @@
 # 🚨 AI-Powered Lost & Found 🔍
 
 ---
-A **smart, user-friendly** web app tha you **find lost items** or **report found ones** using AI-powered matching!.  
+A **smart, user-friendly** web app that you **find lost items** or **report found ones** using AI-powered matching!.  
 Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works without a backend!( would be implementing soon)
 
 ---
