@@ -2,7 +2,7 @@
 
 ---
 A **smart, user-friendly** web app to help you **find lost items** or **report found ones** using AI-powered matching!.  
-Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works without a backend!( would be i
+Built with **HTML, CSS, and JavaScript**, it’s lightweight, fast, and works without a backend!( would be im
 
 ---
 ## 🌟 Features
