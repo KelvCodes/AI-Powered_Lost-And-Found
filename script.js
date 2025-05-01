@@ -1,9 +1,4 @@
-et reader = new FileReader();
-        reader.onload = function (e) {
-            imageSrc = e.target.result;
-            const newItem = { name, location, phone, description, imageSrc };
-            lostItems.push(newItem);
-            localStorage.setItem('lostItems', JSON.stringify(lostItems));
+et orage.setItem('lostItems', JSON.stringify(lostItems));
             alert('✅ Lost item sealed in the abyss! Checking for matches...');
             resetForm('lost');
             updateMatches();
