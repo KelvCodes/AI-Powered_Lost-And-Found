@@ -1,7 +1,4 @@
-    specsition.set(5, 5, 5);
-        scene.add(light);
-        const ambientLight = new THREE.AmbientLight(0x16213e, 0.5);
-        scene.add(ambientLight);
+e.add(ambientLight);
 
         const particleGeometry = new THREE.BufferGeometry();
         const particleCount = 1000;
