@@ -1,11 +1,5 @@
 mageInput = document.getElementById('found-image');
 
-    if (!name || !location || !phone) {
-        alert('❌ Fill the void or face the consequences!');
-        return;
-    }
-
-    let imageSrc = '';
     if (imageInput.files.length > 0) {
         let reader = new FileReader();
         reader.onload = function (e) {
