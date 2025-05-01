@@ -1,8 +1,6 @@
 t.getElementById('found-form')) {
         document.getElementById('found-form').addEventListener('submit', (e) => {
-            e.preventDefault();
-            reportFoundItem();
-        });
+    
     }
 });
 
