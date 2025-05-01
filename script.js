@@ -1,7 +1,4 @@
 
-    const reportLostButton = document.querySelector('.lost-card .btn-gradient');
-    const reportFoundButton = document.querySelector('.found-card .btn-gradient');
-
     if (reportLostButton) {
         reportLostButton.addEventListener('click', () => {
             window.location.href = 'lost.html';
