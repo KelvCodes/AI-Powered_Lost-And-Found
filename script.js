@@ -1,10 +1,4 @@
-   window.location.href = 'found.html';
-        });
-    }
-
-    if (document.getElementById('lost-form')) {
-        document.getElementById('lost-form').addEventListener('submit', (e) => {
-            e.preventDefault();
+    e.preventDefault();
             reportLostItem();
         });
     }
