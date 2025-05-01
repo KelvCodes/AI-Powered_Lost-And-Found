@@ -1,8 +1,3 @@
- tartButton) {
-    
-
-    let lostItems = JSON.parse(localStorage.getItem('lostItems')) || [];
-    let foundItems = JSON.parse(localStorage.getItem('foundItems')) || [];
 
     const reportLostButton = document.querySelector('.lost-card .btn-gradient');
     const reportFoundButton = document.querySelector('.found-card .btn-gradient');
