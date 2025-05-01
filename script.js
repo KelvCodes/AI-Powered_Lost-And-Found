@@ -1,8 +1,4 @@
-
-function reportLostItem() {
-    let name = document.getElementById('lost-item').value.trim();
-    let location = document.getElementById('lost-location').value.trim();
-    let phone = document.getElementById('lost-phone').value.trim();
+ocument.getElementById('lost-phone').value.trim();
     let description = document.getElementById('lost-description').value.trim();
     let imageInput = document.getElementById('lost-image');
 
