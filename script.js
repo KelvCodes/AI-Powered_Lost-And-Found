@@ -1,5 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
-    // Three.js Background for index.html
+e.js Background for index.html
     const canvas = document.getElementById('three-js-background');
     if (canvas) {
         const scene = new THREE.Scene();
