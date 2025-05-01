@@ -1,9 +1,4 @@
-    e.preventDefault();
-            reportLostItem();
-        });
-    }
-
-    if (document.getElementById('found-form')) {
+t.getElementById('found-form')) {
         document.getElementById('found-form').addEventListener('submit', (e) => {
             e.preventDefault();
             reportFoundItem();
