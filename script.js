@@ -1,9 +1,4 @@
- animmera.aspect = window.innerWidth / window.innerHeight;
-            camera.updateProjectionMatrix();
-        });
-
-        const startButton = document.querySelector('.get-started-btn');
-        if (startButton) {
+ tartButton) {
             startButton.addEventListener('click', () => {
                 canvas.style.opacity = '0.7';
             });
