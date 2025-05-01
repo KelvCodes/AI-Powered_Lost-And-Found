@@ -1,7 +1,4 @@
-
-    if (reportLostButton) {
-        reportLostButton.addEventListener('click', () => {
-            window.location.href = 'lost.html';
+dow.location.href = 'lost.html';
         });
     }
 
