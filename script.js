@@ -1,8 +1,4 @@
-    specular: 0x6e44ff,
-            shininess: 50,
-            emissive: 0x330000
-        });
-        const torusKnot = new THREE.Mesh(geometry, material);
+    specorusKnot = new THREE.Mesh(geometry, material);
         scene.add(torusKnot);
 
         const light = new THREE.PointLight(0xff577f, 1.5, 100);
