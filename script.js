@@ -1,8 +1,4 @@
-    specorusKnot = new THREE.Mesh(geometry, material);
-        scene.add(torusKnot);
-
-        const light = new THREE.PointLight(0xff577f, 1.5, 100);
-        light.position.set(5, 5, 5);
+    specsition.set(5, 5, 5);
         scene.add(light);
         const ambientLight = new THREE.AmbientLight(0x16213e, 0.5);
         scene.add(ambientLight);
