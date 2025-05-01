@@ -1,7 +1,4 @@
-for (let i = 0; i < particleCount * 3; i += 3) {
-            positions[i] = (Math.random() - 0.5) * 30;
-            positions[i + 1] = (Math.random() - 0.5) * 30;
-            positions[i + 2] = (Math.random() - 0.5) * 30;
+positions[i + 2] = (Math.random() - 0.5) * 30;
         }
         particleGeometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
         const particleMaterial = new THREE.PointsMaterial({ 
