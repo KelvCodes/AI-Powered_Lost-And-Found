@@ -1,7 +1,4 @@
-  torusKnot.rotation.x += 0.02;
-       erer.render(scene, camera);
-        }
-        animate();
+ animate();
 
         window.addEventListener('resize', () => {
             renderer.setSize(window.innerWidth, window.innerHeight);
