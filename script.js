@@ -1,7 +1,5 @@
 positions[i + 2] = (Math.random() - 0.5) * 30;
-        }
-        particleGeometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
-        const particleMaterial = new THREE.PointsMaterial({ 
+   onst particleMaterial = new THREE.PointsMaterial({ 
             color: 0xff577f, 
             size: 0.15, 
             transparent: true,
