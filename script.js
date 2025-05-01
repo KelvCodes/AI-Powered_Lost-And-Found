@@ -1,8 +1,3 @@
-t.getElementById('found-form')) {
-        document.getElementById('found-form').addEventListener('submit', (e) => {
-    
-    }
-});
 
 function reportLostItem() {
     let name = document.getElementById('lost-item').value.trim();
