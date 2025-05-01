@@ -1,9 +1,6 @@
       color: 0xff577f, 
             size: 0.15, 
-            transparent: true,
-            opacity: 0.8 
-        });
-        const particles = new THREE.Points(particleGeometry, particleMaterial);
+        particles = new THREE.Points(particleGeometry, particleMaterial);
         scene.add(particles);
 
         camera.position.z = 5;
