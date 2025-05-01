@@ -1,6 +1,4 @@
-e.add(ambientLight);
-
-        const particleGeometry = new THREE.BufferGeometry();
+e.adt particleGeometry = new THREE.BufferGeometry();
         const particleCount = 1000;
         const positions = new Float32Array(particleCount * 3);
         for (let i = 0; i < particleCount * 3; i += 3) {
