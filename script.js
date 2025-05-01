@@ -1,8 +1,5 @@
   torusKnot.rotation.x += 0.02;
-            torusKnot.rotation.y += 0.02;
-            torusKnot.scale.setScalar(1 + Math.sin(time) * 0.1);
-            particles.rotation.y += 0.005;
-            renderer.render(scene, camera);
+       erer.render(scene, camera);
         }
         animate();
 
