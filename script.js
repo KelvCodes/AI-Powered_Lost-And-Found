@@ -1,10 +1,4 @@
 e
-    orage.setItem('lostItems', JSON.stringify(lostItems));
-        alert('✅ Lost item sealed in the abyss! Checking for matches...');
-        resetForm('lost');
-        updateMatches();
-    }
-}
 
 function reportFoundItem() {
     let name = document.getElementById('found-item').value.trim();
