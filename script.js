@@ -1,9 +1,4 @@
-urn;
-    }
-
-    let imageSrc = '';
-    if (imageInput.files.length > 0) {
-        let reader = new FileReader();
+et reader = new FileReader();
         reader.onload = function (e) {
             imageSrc = e.target.result;
             const newItem = { name, location, phone, description, imageSrc };
