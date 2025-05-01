@@ -1,7 +1,4 @@
-      color: 0xff577f, 
-            size: 0.15, 
-        particles = new THREE.Points(particleGeometry, particleMaterial);
-        scene.add(particles);
+e.add(particles);
 
         camera.position.z = 5;
 
