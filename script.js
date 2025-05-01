@@ -1,9 +1,5 @@
     updateMatches();
-    torage.setItem('foundItems', JSON.stringify(foundItems));
-        alert('✅ Found item unleashed! Checking for matches...');
-        resetForm('found');
-        updateMatches();
-    }
+  
 }
 
 function resetForm(type) {
