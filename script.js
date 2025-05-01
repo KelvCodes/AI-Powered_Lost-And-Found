@@ -1,11 +1,4 @@
-e
-
-function reportFoundItem() {
-    let name = document.getElementById('found-item').value.trim();
-    let location = document.getElementById('found-location').value.trim();
-    let phone = document.getElementById('found-phone').value.trim();
-    let description = document.getElementById('found-description').value.trim();
-    let imageInput = document.getElementById('found-image');
+mageInput = document.getElementById('found-image');
 
     if (!name || !location || !phone) {
         alert('❌ Fill the void or face the consequences!');
