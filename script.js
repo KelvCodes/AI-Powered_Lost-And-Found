@@ -1,9 +1,6 @@
 e.add(particles);
 
-        camera.position.z = 5;
-
-        let time = 0;
-        function animate() {
+    function animate() {
             requestAnimationFrame(animate);
             time += 0.05;
             torusKnot.rotation.x += 0.02;
