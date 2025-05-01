@@ -1,9 +1,4 @@
-e.add(particles);
-
-    function animate() {
-            requestAnimationFrame(animate);
-            time += 0.05;
-            torusKnot.rotation.x += 0.02;
+  torusKnot.rotation.x += 0.02;
             torusKnot.rotation.y += 0.02;
             torusKnot.scale.setScalar(1 + Math.sin(time) * 0.1);
             particles.rotation.y += 0.005;
