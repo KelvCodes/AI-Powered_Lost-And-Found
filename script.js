@@ -1,10 +1,4 @@
-ocument.getElementById('lost-phone').value.trim();
-    let description = document.getElementById('lost-description').value.trim();
-    let imageInput = document.getElementById('lost-image');
-
-    if (!name || !location || !phone) {
-        alert('❌ Fill the void or face the consequences!');
-        return;
+urn;
     }
 
     let imageSrc = '';
