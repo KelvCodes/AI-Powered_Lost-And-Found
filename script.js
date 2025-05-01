@@ -1,9 +1,5 @@
  tartButton) {
-            startButton.addEventListener('click', () => {
-                canvas.style.opacity = '0.7';
-            });
-        }
-    }
+    
 
     let lostItems = JSON.parse(localStorage.getItem('lostItems')) || [];
     let foundItems = JSON.parse(localStorage.getItem('foundItems')) || [];
