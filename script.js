@@ -1,6 +1,4 @@
-positions[i + 2] = (Math.random() - 0.5) * 30;
-   onst particleMaterial = new THREE.PointsMaterial({ 
-            color: 0xff577f, 
+      color: 0xff577f, 
             size: 0.15, 
             transparent: true,
             opacity: 0.8 
