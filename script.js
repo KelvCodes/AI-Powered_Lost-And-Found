@@ -1,10 +1,4 @@
-dow.location.href = 'lost.html';
-        });
-    }
-
-    if (reportFoundButton) {
-        reportFoundButton.addEventListener('click', () => {
-            window.location.href = 'found.html';
+   window.location.href = 'found.html';
         });
     }
 
