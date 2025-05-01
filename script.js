@@ -1,9 +1,4 @@
-mageInput = document.getElementById('found-image');
-ndItems.push(newItem);
-            localStorage.setItem('foundItems', JSON.stringify(foundItems));
-            alert('✅ Found item unleashed! Checking for matches...');
-            resetForm('found');
-            updateMatches();
+    updateMatches();
         };
         reader.readAsDataURL(imageInput.files[0]);
     } else {
