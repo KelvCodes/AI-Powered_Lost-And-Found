@@ -1,10 +1,5 @@
     updateMatches();
-        };
-        reader.readAsDataURL(imageInput.files[0]);
-    } else {
-        const newItem = { name, location, phone, description, imageSrc };
-        foundItems.push(newItem);
-        localStorage.setItem('foundItems', JSON.stringify(foundItems));
+    torage.setItem('foundItems', JSON.stringify(foundItems));
         alert('✅ Found item unleashed! Checking for matches...');
         resetForm('found');
         updateMatches();
