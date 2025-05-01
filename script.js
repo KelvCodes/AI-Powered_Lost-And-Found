@@ -1,11 +1,5 @@
 mageInput = document.getElementById('found-image');
-
-    if (imageInput.files.length > 0) {
-        let reader = new FileReader();
-        reader.onload = function (e) {
-            imageSrc = e.target.result;
-            const newItem = { name, location, phone, description, imageSrc };
-            foundItems.push(newItem);
+ndItems.push(newItem);
             localStorage.setItem('foundItems', JSON.stringify(foundItems));
             alert('✅ Found item unleashed! Checking for matches...');
             resetForm('found');
