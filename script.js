@@ -1,7 +1,4 @@
 
-    torusKnot.castShadow = true;
-  
-    const pointLight = new THREE.PointLight(0xff577f, 1.5, 100);
     pointLight.position.set(5, 5, 5);
     pointLight.castShadow = true;
     scene.add(pointLight);
