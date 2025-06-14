@@ -1,9 +1,5 @@
 
 
-        
-        const delta = clock.getDelta();
-        time += delta * 0.5;
-        
         // Animate torus knot
         torusKnot.rotation.x += 0.01;
         torusKnot.rotation.y += 0.01;
