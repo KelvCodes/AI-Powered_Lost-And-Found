@@ -1,9 +1,5 @@
 
 
-    
-
-// Three.js Background Initialization
-function initThreeJSBackground() {
     const canvas = document.getElementById('three-js-background');
     if (!canvas) return;
 
