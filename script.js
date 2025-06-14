@@ -1,6 +1,4 @@
 
-    pointLight.position.set(5, 5, 5);
-    pointLight.castShadow = true;
     scene.add(pointLight);
 
     const ambientLight = new THREE.AmbientLight(0x16213e, 0.5);
