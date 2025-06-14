@@ -1,6 +1,4 @@
 
-        startButton.addEventListener('mouseleave', () => {
-            canvas.style.transition = 'opacity 0.5s ease';
             canvas.style.opacity = '1';
         });
         
