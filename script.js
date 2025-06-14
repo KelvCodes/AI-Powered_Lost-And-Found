@@ -1,6 +1,4 @@
 
-        color: 0xff0000,
-        specular: 0x6e44ff,
         shininess: 50,
         emissive: 0x330000,
         wireframe: false
