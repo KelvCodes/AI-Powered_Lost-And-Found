@@ -1,7 +1,4 @@
 
-        wireframe: false
-    });
-    const torusKnot = new THREE.Mesh(geometry, material);
     torusKnot.castShadow = true;
     scene.add(torusKnot);
 
