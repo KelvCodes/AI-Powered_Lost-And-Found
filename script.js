@@ -1,7 +1,5 @@
 
 
-    // Camera position
-    camera.position.z = 5;
 
     // Animation loop
     let time = 0;
