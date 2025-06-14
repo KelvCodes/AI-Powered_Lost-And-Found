@@ -1,6 +1,4 @@
 
-        canvas, 
-        alpha: true,
         antialias: true 
     });
     renderer.setPixelRatio(window.devicePixelRatio);
