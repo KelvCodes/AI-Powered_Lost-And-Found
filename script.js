@@ -1,7 +1,4 @@
 
-    });
-
-    // Button interaction effect
     const startButton = document.querySelector('.get-started-btn');
     if (startButton) {
         startButton.addEventListener('mouseenter', () => {
