@@ -1,9 +1,5 @@
 
 
-    // Particle system
-    const particles = createParticleSystem(2000);
-    scene.add(particles);
-
     // Camera position
     camera.position.z = 5;
 
