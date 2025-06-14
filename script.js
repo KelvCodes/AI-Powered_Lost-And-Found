@@ -1,6 +1,5 @@
 
-        startButton.addEventListener('click', () => {
-            canvas.style.transition = 'opacity 0.3s ease';
+    
             canvas.style.opacity = '0.4';
             setTimeout(() => {
                 canvas.style.opacity = '1';
