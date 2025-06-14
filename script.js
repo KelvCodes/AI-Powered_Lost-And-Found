@@ -1,5 +1,4 @@
 
-        pointLight.intensity = 1.5 + Math.sin(time) * 0.5;
         
         renderer.render(scene, camera);
     }
