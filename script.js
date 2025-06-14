@@ -1,7 +1,4 @@
 
-        particles.rotation.y += 0.002;
-        
-        // Pulsing light effect
         pointLight.intensity = 1.5 + Math.sin(time) * 0.5;
         
         renderer.render(scene, camera);
