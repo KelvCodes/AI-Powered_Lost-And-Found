@@ -1,6 +1,4 @@
 
-   
-        positions[i + 2] = (Math.random() - 0.5) * 50;
         
         // Color variation
         colors[i] = Math.random() * 0.5 + 0.5; // R
