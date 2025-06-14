@@ -1,9 +1,6 @@
 
 
     
-    // Initialize the application
-    initApp();
-});
 
 // Three.js Background Initialization
 function initThreeJSBackground() {
