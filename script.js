@@ -1,5 +1,4 @@
 
-    const material = new THREE.MeshPhongMaterial({ 
         color: 0xff0000,
         specular: 0x6e44ff,
         shininess: 50,
