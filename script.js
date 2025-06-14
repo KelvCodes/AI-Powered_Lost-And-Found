@@ -1,6 +1,4 @@
 
-        shininess: 50,
-        emissive: 0x330000,
         wireframe: false
     });
     const torusKnot = new THREE.Mesh(geometry, material);
