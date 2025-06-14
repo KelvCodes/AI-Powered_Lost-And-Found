@@ -1,7 +1,5 @@
 
 
-
-        requestAnimationFrame(animate);
         
         const delta = clock.getDelta();
         time += delta * 0.5;
