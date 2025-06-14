@@ -1,6 +1,5 @@
 
-    // Initialize Three.js background if canvas exists
-    initThreeJSBackground();
+
     
     // Initialize the application
     initApp();
