@@ -1,9 +1,6 @@
 
 
 
-    const clock = new THREE.Clock();
-    
-    function animate() {
         requestAnimationFrame(animate);
         
         const delta = clock.getDelta();
