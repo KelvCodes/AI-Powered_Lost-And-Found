@@ -1,7 +1,4 @@
 
-        torusKnot.scale.setScalar(1 + Math.sin(time) * 0.1);
-        
-        // Animate particles
         particles.rotation.y += 0.002;
         
         // Pulsing light effect
