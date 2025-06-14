@@ -1,6 +1,4 @@
 
-    const startButton = document.querySelector('.get-started-btn');
-    if (startButton) {
         startButton.addEventListener('mouseenter', () => {
             canvas.style.transition = 'opacity 0.5s ease';
             canvas.style.opacity = '0.6';
