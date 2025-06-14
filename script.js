@@ -1,5 +1,5 @@
 
-    const colors = new Float32Array(count * 3);
+   
     
     for (let i = 0; i < count * 3; i += 3) {
         positions[i] = (Math.random() - 0.5) * 50;
