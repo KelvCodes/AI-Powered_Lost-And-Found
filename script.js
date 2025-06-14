@@ -1,8 +1,6 @@
 
 
 
-    // Animation loop
-    let time = 0;
     const clock = new THREE.Clock();
     
     function animate() {
