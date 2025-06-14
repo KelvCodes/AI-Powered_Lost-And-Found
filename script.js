@@ -1,5 +1,4 @@
 
-    const geometry = new THREE.TorusKnotGeometry(1, 0.3, 100, 16);
     const material = new THREE.MeshPhongMaterial({ 
         color: 0xff0000,
         specular: 0x6e44ff,
