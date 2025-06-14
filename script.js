@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+
     // Initialize Three.js background if canvas exists
     initThreeJSBackground();
     
