@@ -1,7 +1,4 @@
 
-            canvas.style.opacity = '1';
-        });
-        
         startButton.addEventListener('click', () => {
             canvas.style.transition = 'opacity 0.3s ease';
             canvas.style.opacity = '0.4';
