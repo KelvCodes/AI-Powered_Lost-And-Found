@@ -1,8 +1,4 @@
 
-
-        // Animate torus knot
-        torusKnot.rotation.x += 0.01;
-        torusKnot.rotation.y += 0.01;
         torusKnot.scale.setScalar(1 + Math.sin(time) * 0.1);
         
         // Animate particles
