@@ -1,6 +1,4 @@
 
-    directionalLight.position.set(0, 1, 0);
-    scene.add(directionalLight);
 
     // Particle system
     const particles = createParticleSystem(2000);
