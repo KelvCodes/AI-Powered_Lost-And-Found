@@ -1,7 +1,4 @@
 
-    
-            canvas.style.opacity = '0.4';
-            setTimeout(() => {
                 canvas.style.opacity = '1';
             }, 300);
         });
