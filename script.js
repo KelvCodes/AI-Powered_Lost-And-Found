@@ -1,7 +1,5 @@
 
-                canvas.style.opacity = '1';
-            }, 300);
-        });
+    
     }
 }
 
