@@ -1,7 +1,4 @@
 
-    scene.add(pointLight);
-
-    const ambientLight = new THREE.AmbientLight(0x16213e, 0.5);
     scene.add(ambientLight);
 
     const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
